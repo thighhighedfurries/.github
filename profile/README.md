@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-hey, we're thighhighedfurries, a joke organization thought of in an irc channel once \
-our "team" is \
-[ely(she/her)](https://github.com/polygonnedpotato) \
-[julie(she/they)](https://github.com/zoey-on-github) 
+hey, we're thighhighedfurries, a joke organization thought of in an irc channel once  
+our "team" is  
+[ely(she/her)](https://github.com/polygonnedpotato) [twitter](https://twitter.com/whotookelburg)  
+[julie(she/they)](https://github.com/zoey-on-github) [twitter](https://twitter.com/scott_feels)
