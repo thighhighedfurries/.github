@@ -13,5 +13,5 @@
 hey, we're thighhighedfurries, a joke organization thought of in an irc channel once  
 our "team" is  
 [ely(she/her)](https://github.com/polygonnedpotato) [twitter](https://twitter.com/whotookelburg)  
-[julie(she/they)](https://github.com/zoey-on-github) [twitter](https://twitter.com/scott_feels)
+[julie(she/they)](https://github.com/zoey-on-github) [twitter](https://twitter.com/scott_feels)  
 [Crazynoob458(they/them)](https://github.com/crazynoob458) [twitter](https://twitter.com/crazynoob458)
