@@ -15,7 +15,6 @@ our "team" is
 [ely(she/her)](https://github.com/polygonnedpotato) [twitter](https://twitter.com/whotookelburg)  
 [julie(she/they)](https://github.com/zoey-on-github) [twitter](https://twitter.com/scott_feels)  
 [Crazynoob458(they/them)](https://github.com/crazynoob458) [twitter](https://twitter.com/crazynoob458)
-<br>[CalculusCat/Maskinkatten206(They/Them)](https://github.com/maskinkatten206) No Twitter</br>
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
