@@ -17,4 +17,4 @@ our "team" is
 [Crazynoob458(they/them)](https://github.com/crazynoob458) [twitter](https://twitter.com/crazynoob458)
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/thighhighedfurries/.github/main/gray0_ctp_on_line.svg" /></p>
